@@ -39,9 +39,9 @@ export default {
                 position: 5,
                 isRequired: true,
                 availableValues:[
-                    { value: 'admin', label: 'Adminstrador' },
-                    { value: 'manager', label: 'Gerente' },
-                    { value: 'developer', label: 'Desenvolvedor' },
+                    { value: 'admin', label: 'Adm' },
+                    { value: 'manager', label: 'Tec' },
+                    { value: 'developer', label: 'Dev' },
                 ]
             },
             status: {
